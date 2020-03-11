@@ -1,0 +1,31 @@
+*{
+    font-family: 'Do Hyeon', sans-serif;
+}
+    .mytitle {
+    color: white;
+    text-align: center;
+    background-image:
+    url('https://www.tefal.co.kr/medias/?context=bWFzdGVyfHJvb3R8MjM3NDl8aW1hZ2UvanBlZ3xoNDUvaDg1LzkzMzg2MjY0NDEyNDYuanBnfDI4NGRhOTU4NDIzNWViZDhjMzE2OTllZTgyYTg1Y2UyOGVhZDdiZWQyMTBlN2E4NTNlMjg1MzRhOWVjZDVlNmM');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    .mytitle > h1{
+    margin: 0 0 5px 0;
+
+    }
+    .mytitle > h5{
+    margin: 5px 0 0 0;
+    }
+
+    .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    }
